@@ -4,7 +4,6 @@
   ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAwesome98-Real&langs_count=14&theme=nord&layout=compact)
 ### about me
 
-- 🔭 I’m currently working on an operating system called frontierOS, which is an OS built for touch devices
 - 🌱 I’m currently learning how to program in logos
 - 📫 How to reach me: you can email me [here](mailto:TheAwesome98@programmer.net)!
 - 😄 Pronouns: he/him
