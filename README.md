@@ -4,9 +4,9 @@
   ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAwesome98-Real&langs_count=14&theme=nord&layout=compact)
 ### about me
 
-- 🌱 I’m currently learning how to program in logos
+- 🌱 I’m currently learning how to program in rust
 - 📫 How to reach me: you can email me [here](mailto:TheAwesome98@programmer.net)!
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm starting photography as a hobby!
 <!--
 **TheAwesome98-Real/TheAwesome98-Real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
