@@ -1,3 +1,4 @@
+# IMPORTANT! only repositories existing here will be updated! new repositories will be created at [git.gay](https://git.gay/tauon)! (some kind of linking program may be made later)
 ## welcome to my GitHub!! :3 ![hotel? trivago](https://img.shields.io/badge/hotel-trivago-teal)
 ### stats :3
   ![github info 1](https://github-readme-stats.vercel.app/api?username=TheAwesome98-Real&show_icons=true&theme=nord&include_all_commits=true)
